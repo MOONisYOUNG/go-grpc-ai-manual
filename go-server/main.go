@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	pb "go-grpc-ai-manual/proto"
+	pb "go-py-grpc-ai-manual/proto"
 
 	"google.golang.org/grpc"
 )
