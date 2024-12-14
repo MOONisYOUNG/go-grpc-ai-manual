@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package qaservice;
+
+option go_package = "./proto";
+
+service QAService {
+  rpc AskQuestion (QuestionRequest) returns (QuestionResponse) {}
+}
+
+message QuestionRequest {
+  string question = 1;
+}
+
+message QuestionResponse {
+  string answer = 1;
+}
