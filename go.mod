@@ -1,4 +1,4 @@
-module go-grpc-ai-manual
+module go-py-grpc-ai-manual
 
 go 1.22.4
 
