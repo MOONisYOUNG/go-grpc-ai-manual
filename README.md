@@ -10,6 +10,7 @@ Go 서버에서 질문을 남기면, Python 서버로 넘겨받은 뒤에 RAG(La
 2. 아나콘다 파이썬 가상환경을 설정하는 명령어 'conda create -n [가상환경 이름] python=3.10'를 입력합니다. 사용자 정의 값은 반드시 바꾸셔야 합니다.
 3. 가상환경을 활성화하는 명령어 'conda activate [가상환경 이름]'을 입력합니다.
 4. 'python-server' 폴더 위치에서 파이썬 라이브러리 환경을 설정하는 명령어'pip install -r requirements.txt'를 입력합니다.
+5. '.env' 파일에서 발급받은 OpenAI API key 값을 입력합니다.
 
 ### 🟠 코드 동작 방법 (Linux 기준 작성)
 1. 'python-sesrver' 폴더 위치에서 'python server.py' 명령어를 입력하여 python server를 활성화시킵니다.
