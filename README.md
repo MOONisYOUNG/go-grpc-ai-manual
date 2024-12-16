@@ -18,4 +18,4 @@ Go 서버에서 질문을 남기면, Python 서버로 넘겨받은 뒤에 RAG(La
 3. go server에서 질문을 입력합니다. Q&A 기능을 종료하고 싶으면 'exit'을 입력하면 됩니다.
 
 ### 🟢 코드 실행 결과
-![image](https://github.com/user-attachments/assets/1001e543-8cc1-4794-a1f1-0577d8f526b2)
+![image](https://github.com/user-attachments/assets/2588681b-2542-4791-aa64-4180da81be44)
