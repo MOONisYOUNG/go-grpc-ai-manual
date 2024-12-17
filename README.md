@@ -1,4 +1,4 @@
-# 💫 go-py-grpc-ai-manual 
+# 🤖📋 go-py-grpc-ai-manual 
 ## <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A8338?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/> <img src="https://github.com/user-attachments/assets/939c63cd-3dd9-43c2-9aee-f800ba4a22ae" height="20"> <img src="https://dbdb.io/media/logos/chroma_H600YUl.svg" height="20"> 
 ## 👉 Go/Python언어, gRPC 프레임워크, LLM, RAG 기법을 조합하여 만든 'Q&A형태의 AI 사용설명서'
 ### ✅ 프로젝트 소개
